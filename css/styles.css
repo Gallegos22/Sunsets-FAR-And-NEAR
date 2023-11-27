@@ -1,0 +1,8 @@
+.heading-container {
+  display: flex;
+  justify-content: center;
+  font-family: 'Sedan SC', sans-serif;
+  font-size: 28px;
+  border: 2px red solid;
+  background-color: rgb(109, 229, 255);
+}
