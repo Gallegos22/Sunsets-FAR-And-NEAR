@@ -11,6 +11,7 @@ i {
   position: relative;
   top: 57px;
   left: 241px;
+  cursor: pointer;
 }
 
 input[type='text'] {
@@ -28,4 +29,12 @@ input[type='text'] {
 input {
   font-size: 24px;
   border-radius: 7px;
+}
+
+button {
+  font-size: 24px;
+  border-radius: 18px;
+  background-color: rgb(250, 165, 0);
+  color: white;
+  cursor: pointer;
 }
