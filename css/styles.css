@@ -12,3 +12,20 @@ i {
   top: 57px;
   left: 241px;
 }
+
+input[type='text'] {
+  text-align: center;
+}
+
+.column-full {
+  min-height: 84vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px red solid;
+}
+
+input {
+  font-size: 24px;
+  border-radius: 7px;
+}
