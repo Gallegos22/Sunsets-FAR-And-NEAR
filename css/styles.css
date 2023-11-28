@@ -1,0 +1,40 @@
+.heading-container {
+  display: flex;
+  justify-content: center;
+  font-family: 'Sedan SC', sans-serif;
+  font-size: 28px;
+  border: 2px red solid;
+  background-color: rgb(109, 229, 255);
+}
+
+i {
+  position: relative;
+  top: 57px;
+  left: 241px;
+  cursor: pointer;
+}
+
+input[type='text'] {
+  text-align: center;
+}
+
+.column-full {
+  min-height: 83vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px red solid;
+}
+
+input {
+  font-size: 24px;
+  border-radius: 7px;
+}
+
+button {
+  font-size: 24px;
+  border-radius: 18px;
+  background-color: rgb(250, 165, 0);
+  color: white;
+  cursor: pointer;
+}
