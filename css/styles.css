@@ -19,7 +19,7 @@ input[type='text'] {
 }
 
 .column-full {
-  min-height: 84vh;
+  min-height: 83vh;
   display: flex;
   justify-content: center;
   align-items: center;
